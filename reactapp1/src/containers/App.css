@@ -11,7 +11,7 @@
 }
 
 .App button {
-  border: 1px solid blue;
+  border: 3px solid steelblue;
   padding: 16px;
   background-color: green;
   font: inherit;
